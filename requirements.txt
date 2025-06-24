@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+transformers
+torch
+matplotlib
+numpy
